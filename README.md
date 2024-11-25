@@ -2,11 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-```
+
 I work as a Full Stack Developer, applying my knowledge in HTML, CSS, JavaScript, React.js, Angular.js, Node.js, Tailwind, MySQL, JSON, TypeScript, and Bootstrap to create complete, high-performance solutions. I started my journey as a Front-End Developer and, over the course of more than a year, evolved into a Full Stack position, enhancing my skills in system integration and development on both the front-end and back-end.
 
 With hands-on experience in project implementation and teamwork, I am always seeking innovation and quality. Constantly learning, I am open to new challenges, with the goal of contributing to the success of products and the team.
-```
+
 
 <p align="left">
     <a href="https://github.com/EmersonSabino34?tab=repositories&sort=stargazers">
