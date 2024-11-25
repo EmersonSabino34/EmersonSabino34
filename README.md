@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Emerson Sabino, tenho 34 anos e sou natural de Goiânia Goiás. Concluí o ensino Superior Universidade Federal Acarau Matemática, mas alguns cursos técnico pouco mais de 200. Atualmente, Curso Analise e Desenvolvimento de sistemas e Engenharia de Software pela Estasio. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Treina-dev](https://www.youtube.com/@treina-dev)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[treina-dev](https://www.instagram.com/treina-dev/)".
+```
+I work as a Full Stack Developer, applying my knowledge in HTML, CSS, JavaScript, React.js, Angular.js, Node.js, Tailwind, MySQL, JSON, TypeScript, and Bootstrap to create complete, high-performance solutions. I started my journey as a Front-End Developer and, over the course of more than a year, evolved into a Full Stack position, enhancing my skills in system integration and development on both the front-end and back-end.
+
+With hands-on experience in project implementation and teamwork, I am always seeking innovation and quality. Constantly learning, I am open to new challenges, with the goal of contributing to the success of products and the team.
+```
 
 <p align="left">
     <a href="https://github.com/EmersonSabino34?tab=repositories&sort=stargazers">
