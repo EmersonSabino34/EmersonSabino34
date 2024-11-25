@@ -2,35 +2,21 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás. Concluí o ensino Superior Universidade Federal Acarau Matemática, mas alguns cursos técnico pouco mais de 200. Atualmente, Curso Analise e Desenvolvimento de sistemas e Engenharia de Software pela Estasio. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Treina-dev](https://www.youtube.com/@treina-dev)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[treina-dev](https://www.instagram.com/treina-dev/)".
+Me chamo Emerson Sabino, tenho 34 anos e sou natural de Goiânia Goiás. Concluí o ensino Superior Universidade Federal Acarau Matemática, mas alguns cursos técnico pouco mais de 200. Atualmente, Curso Analise e Desenvolvimento de sistemas e Engenharia de Software pela Estasio. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Treina-dev](https://www.youtube.com/@treina-dev)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[treina-dev](https://www.instagram.com/treina-dev/)".
 
 <p align="left">
-    <a href="[https://www.youtube.com/@treina-dev](https://www.youtube.com/@treina-dev)?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@treina-dev">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/srodrigo28?tab=repositories&sort=stargazers">
+    <a href="https://github.com/EmersonSabino34?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/srodrigo28?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/EmersonSabino34?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/srodrigo28?tab=followers">
+    <a href="https://github.com/EmersonSabino34?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/srodrigo28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/EmersonSabino34?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -113,22 +99,6 @@ Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás. Con
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -143,14 +113,6 @@ Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás. Con
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
@@ -163,14 +125,14 @@ Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás. Con
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=srodrigo28&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=EmersonSabino34&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigo28&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonSabino34&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
